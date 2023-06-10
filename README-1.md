@@ -1,5 +1,3 @@
-📝 **NOTE** Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Week 1 Assignment: Flixster
 
 Submitted by: **Ayslin Walker**
@@ -30,7 +28,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
   - The results from the search should be displayed on the page
   - There should be a close icon with an id of `close-search-btn` that exits the search, clears results, and shows the current movies displayed previously
 - [x] Website accounts for basic HTML/CSS accessibility features
-- [ ] Website should be responsive
+- [x] Website should be responsive
 
 #### Stretch Features
 
