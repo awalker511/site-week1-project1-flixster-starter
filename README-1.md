@@ -42,8 +42,6 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
 <a href="https://www.loom.com/share/649b6406629042e5b17d52ed3fb83398">
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/649b6406629042e5b17d52ed3fb83398-with-play.gif">
   </a>
@@ -59,6 +57,8 @@ Yes the topics we discussed did help however I was still very confused when it c
 With more time, I would probably have tried to make the site more responsive, I forgot that pixels are absolute and unfortunately most of my styling used pixels so I tried to change as much as I could to percentages and more responsive units but I couldn't get everything. I would also try to figure out how to create a pop-up window with extra information pertaining to the movies.
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
+
+  Most of everything in the demo went well, I only really have an issue with what happens when I press the clear search button because it prompts the required field error message to come up, and I was unsure how to make that not happen. I tried removing the "required" keyword so that it wouldn't matter but that altered my code negatively so I just left it in instead.
 
 ### Open-source libraries used
 
